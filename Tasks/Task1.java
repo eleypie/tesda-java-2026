@@ -1,3 +1,5 @@
+package Tasks;
+
 /**
  * The Task1.java implements an application that
  * simply prints "Kamusta Mundo!" to standard output.

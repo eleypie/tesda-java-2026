@@ -1,0 +1,91 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "IfStatementLesson",
+      "request": "launch",
+      "mainClass": "chapter3.IfStatementLesson",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "StringLesson",
+      "request": "launch",
+      "mainClass": "chapter3.StringLesson",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "OperatorsLesson",
+      "request": "launch",
+      "mainClass": "chapter2.OperatorsLesson",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Sample1",
+      "request": "launch",
+      "mainClass": "chapter1.Sample1",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "conflic",
+      "request": "launch",
+      "mainClass": "conflic",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "ReferenceLesson",
+      "request": "launch",
+      "mainClass": "chapter1.ReferenceLesson",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "PrimitivesLesson",
+      "request": "launch",
+      "mainClass": "chapter1.PrimitivesLesson",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "InstancetIniLesson",
+      "request": "launch",
+      "mainClass": "chapter1.InstancetIniLesson",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Name",
+      "request": "launch",
+      "mainClass": "chapter1.Name",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Swan",
+      "request": "launch",
+      "mainClass": "chapter1.Swan",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "ConstructorLesson1",
+      "request": "launch",
+      "mainClass": "chapter1.ConstructorLesson1",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}

@@ -3,9 +3,15 @@ package chapter3;
 public class StringLesson {
   public static void main(String[] args) {
     String name = "fluffy";
-    // this is not changing the address in string pull is changing each time not
-    // really updating the actual value thats immutable, if the string you created
-    // is already existing its not creating no more
+    /*
+     * Strings in Java are immutable.
+     * Assigning a new value to a String variable (like 'pull') does not change the
+     * original object’s address.
+     * Instead, it points to a new String.
+     * If the String you create already exists in the String pool, Java will reuse
+     * it rather than create a new one.
+     */
+
     String a = "1";
     a = "0";
     a += "2";
