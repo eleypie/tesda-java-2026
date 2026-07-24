@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayLesson",
+      "request": "launch",
+      "mainClass": "chapter3.ArrayLesson",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "LoopLesson",
+      "request": "launch",
+      "mainClass": "chapter2.LoopLesson",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "IfStatementLesson",
+      "request": "launch",
+      "mainClass": "chapter2.IfStatementLesson",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
       "name": "IfStatementLesson",
       "request": "launch",
       "mainClass": "chapter3.IfStatementLesson",

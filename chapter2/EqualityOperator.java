@@ -1,4 +1,4 @@
-package chapter3;
+package chapter2;
 
 public class EqualityOperator {
   public static void main(String[] args) {

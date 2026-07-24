@@ -1,8 +1,8 @@
-package chapter3;
+package chapter2;
 
-public class IfStatementLesson {
+public class IfSwitchStatementLesson {
   public static void main(String[] args) {
-    int hourOfDay = 10;
+    int hourOfDay = 22;
     if (hourOfDay < 11)
       // if true both are printed, if false last statement only
       System.out.println("Good morning");
@@ -37,5 +37,33 @@ public class IfStatementLesson {
     // statement.
 
     System.out.println((hourOfDay <= 18) ? "Good Eve" : "Good Day");
+
+    // nested ternary
+    System.out.println((hourOfDay <= 18) ? "Good Eve" : (hourOfDay <= 12) ? "Good afternoon" : "good morning");
+
+    int dayOfWeek = 4;
+    switch (dayOfWeek) {
+      case 1:
+        System.out.println("Monday");
+        break;
+      case 2:
+        System.out.println("Tuesday");
+        break;
+      case 3:
+        System.out.println("Wednesday");
+        break;
+      case 4:
+        System.out.println("Thursday");
+        break;
+      case 5:
+        System.out.println("Friday");
+        break;
+      case 6:
+      case 7:
+        System.out.println("Weekend");
+        break;
+      default:
+        System.out.println("invalid day");
+    }
   }
 }

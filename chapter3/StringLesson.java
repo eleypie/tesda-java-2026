@@ -30,5 +30,23 @@ public class StringLesson {
     String trimSample = " \t \n \t Marc Yam \t \n";
     System.out.println(trimSample.trim());
 
+    // String builder
+    String limitString = "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    // String limit for max charseq. integer.maxvalue
+    System.out.println(limitString);
+    String sample1 = "abcd";
+    String sample2 = "abcd";
+    String sample3 = "abcd";
+    // compile time
+    System.out.println("sample1 == sample2" + sample1 == sample2);
+    System.out.println("sample1 == sample3" + sample1 == sample3);
+    System.out.println("sample2 == sample3" + sample2 == sample3);
+    // runtime
+    System.out.println("sample1.equals(sample2)" + sample1.equals(sample2));
+    System.out.println("sample1.equals(sample3)" + sample1.equals(sample3));
+    System.out.println("sample2.equals(sample3)" + sample2.equals(sample3));
+
+    System.out.println("sample1.equals(sample3.trim())" + sample1.equals(sample3.trim()));
+    System.out.println("sample2.equals(sample3.trim())" + sample2.equals(sample3.trim()));
   }
 }
