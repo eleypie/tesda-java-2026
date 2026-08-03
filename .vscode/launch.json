@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DatesAndTimeLesson",
+      "request": "launch",
+      "mainClass": "chapter3.DatesAndTimeLesson",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "ArrayListLesson",
+      "request": "launch",
+      "mainClass": "chapter3.ArrayListLesson",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
       "name": "Task2",
       "request": "launch",
       "mainClass": "Tasks.Task2",
