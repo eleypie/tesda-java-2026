@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Task4",
+      "request": "launch",
+      "mainClass": "Tasks.Task4",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
       "name": "ReturnType",
       "request": "launch",
       "mainClass": "chapter4.ReturnType",
