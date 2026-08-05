@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Task6",
+      "request": "launch",
+      "mainClass": "Tasks.Task6",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
       "name": "Task5",
       "request": "launch",
       "mainClass": "Tasks.Task5",
