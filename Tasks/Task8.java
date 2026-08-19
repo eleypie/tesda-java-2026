@@ -8,7 +8,7 @@ public class Task8 {
     for (int p : numbers) {
       int sum = (p * (p + 1)) / 2;
       comulativeSum += sum;
-      System.out.println("Parameter" + p + "sum = " + sum + ", cumulative sum =" + comulativeSum);
+      System.out.println("Parameter" + p + "sum = " + sum + ", cumulative sum = " + comulativeSum);
     }
 
   }

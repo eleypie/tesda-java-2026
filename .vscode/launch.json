@@ -6,6 +6,118 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Gorilla",
+      "request": "launch",
+      "mainClass": "Tasks.Task16.Gorilla",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Tasks.Task15.Main",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Task15",
+      "request": "launch",
+      "mainClass": "Tasks.Task15",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Task14",
+      "request": "launch",
+      "mainClass": "Tasks.Task14",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Car",
+      "request": "launch",
+      "mainClass": "Tasks.Car",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Vehicle",
+      "request": "launch",
+      "mainClass": "Tasks.Vehicle",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Task13",
+      "request": "launch",
+      "mainClass": "Tasks.Task13",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Task11",
+      "request": "launch",
+      "mainClass": "Tasks.Task11.Task11",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Task12",
+      "request": "launch",
+      "mainClass": "Tasks.Task12",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Task11",
+      "request": "launch",
+      "mainClass": "Tasks.Task11",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Task10",
+      "request": "launch",
+      "mainClass": "Tasks.Task10",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Task9",
+      "request": "launch",
+      "mainClass": "Tasks.Task9",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "SeetMapApisFunc",
+      "request": "launch",
+      "mainClass": "chapter4.SeetMapApisFunc",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Task8",
+      "request": "launch",
+      "mainClass": "Tasks.Task8",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "Task7",
+      "request": "launch",
+      "mainClass": "Tasks.Task7",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
+      "name": "OverLoading",
+      "request": "launch",
+      "mainClass": "chapter4.OverLoading",
+      "projectName": "tesda-java-2026_993936bb"
+    },
+    {
+      "type": "java",
       "name": "Task6",
       "request": "launch",
       "mainClass": "Tasks.Task6",

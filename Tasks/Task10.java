@@ -9,9 +9,7 @@ class Student {
     this.lastName = lastName;
   }
 
-  // Your code goes here
   public void printFullName() {
-
     System.out.println(firstName + " " + lastName);
 
   }
